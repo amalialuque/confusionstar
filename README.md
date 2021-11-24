@@ -30,7 +30,7 @@ The following files are required:
 *   CIFAR-100_cm.xlsx
 *   MNIST_cm_sequence.xlsx
 
-**Installing instrctions**
+**Installing instructions**
 
 To run the code, install the packages in the file "environment.yml" with the command
 ```
