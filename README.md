@@ -29,3 +29,11 @@ The following files are required:
 *   Abalone-10_cm.xlsx
 *   CIFAR-100_cm.xlsx
 *   MNIST_cm_sequence.xlsx
+
+**Installing instrctions**
+
+To run the code, install the packages in the file "environment.yml" with the command
+```
+conda env create -f environment.yml
+```
+using the Anaconda python distribution
